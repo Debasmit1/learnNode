@@ -6,7 +6,7 @@
 // module    - info about current module
 // process   - info about env where the program is being executed
 
-//console.log(process);
+//console.log(module);
 // setInterval(() => {
 //   console.log(`Hello World`);
 // }, 1000);
