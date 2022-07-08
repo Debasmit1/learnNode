@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Debasmit1/learnNode#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "serverless": "^3.19.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
